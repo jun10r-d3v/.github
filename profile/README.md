@@ -1,5 +1,6 @@
 # We are Junior Dev!!
 
+<img src="./Jdev_logo_color.png" height="300" style="display: block; margin: 0 auto;">
 The team that organize Online Programming Contest on codeforces.
 
 # About Us
