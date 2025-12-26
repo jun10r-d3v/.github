@@ -8,4 +8,4 @@ Junior Dev. is an organization for hosting contests on various topics for people
 
 # How to Participate
 
-Join this link and have fun!!
+Join this link and have [fun!!](https://juniordev.contest.codeforces.com/)
